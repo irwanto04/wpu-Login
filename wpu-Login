@@ -13,6 +13,16 @@
                 <input type="text"><br>
                 <label>Password</label><br>
                 <input type="password"><br>
-                <button>Log in</button>
+                <button>Masuk</button>
+            </form>
+            </div>   
+        <style>
+                        *{
+                margin: 0;
+                padding: 0;
+                outline: 0;
+                font-family: 'Open Sans', sans-serif;
+            }
+        </style>
  </body>
  </html>
