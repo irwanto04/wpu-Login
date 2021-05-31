@@ -1,0 +1,5 @@
+ .container label{
+                text-align: left;
+                color: #90caf9;
+            }
+            
